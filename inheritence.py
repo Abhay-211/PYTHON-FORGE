@@ -1,3 +1,5 @@
+#inheritence
+
 class Employee:
     raise_amount = 1.04
     no_of_emps=0
